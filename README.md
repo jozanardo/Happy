@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Node.js
 - JavaScript
 - SQLite
-- HTML5
+- Handlebars
 - CSS3
 
 ## 💻 Projeto
